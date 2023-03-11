@@ -10,4 +10,6 @@ manipulação de DOM com JavaScript
   <li>API paraacessar WhatsApp</li>
   <li>Links para loja de flores/sementes</li>
 <ul>
+  
+<p>Acesse: https://jessicamoreiras.github.io/DOM/</p>
 <img src="https://user-images.githubusercontent.com/100448388/224496263-59aca8d1-01ce-40d8-88a1-e396f536519d.png" width="80%" aligth="center">
