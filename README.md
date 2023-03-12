@@ -7,7 +7,7 @@ manipulação de DOM com JavaScript
   <li>Criação de JSON com os dados obtidos do formulario</li>
   <li>Área de busca a partir do CPF cadastrado</li>
   <li>Exibição dos dados encontrados</li>
-  <li>API paraacessar WhatsApp</li>
+  <li>API para acessar WhatsApp</li>
   <li>Links para loja de flores/sementes</li>
 <ul>
 <br/>
