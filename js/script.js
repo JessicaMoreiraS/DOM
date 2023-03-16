@@ -189,7 +189,6 @@ function buscar(){
             }
 
             for(y=0; y<todasFlores.length; y++){
-                console.log("aqui")
                 for(w=0; w<cadastrados[x].flores.length; w++){
                     if(todasFlores[y].valor == cadastrados[x].flores[w]){
                         document.getElementById("areaFlores").innerHTML += "<div id='"+cardsParaFlores[y]+"'></div>"
