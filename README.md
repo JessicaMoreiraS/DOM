@@ -11,5 +11,8 @@ manipulação de DOM com JavaScript
   <li>Links para loja de flores/sementes</li>
 <ul>
 <br/>
-<p>Acesse: https://jessicamoreiras.github.io/DOM/</p>
-<img src="https://user-images.githubusercontent.com/100448388/224496263-59aca8d1-01ce-40d8-88a1-e396f536519d.png" width="80%" aligth="center">
+<div align="center">
+  <h3>Acesse: https://jessicamoreiras.github.io/DOM/</h3>
+  <img src="https://user-images.githubusercontent.com/100448388/224496263-59aca8d1-01ce-40d8-88a1-e396f536519d.png" width="80%" aligth="center">
+</div>
+
